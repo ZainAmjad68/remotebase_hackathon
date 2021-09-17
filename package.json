@@ -1,0 +1,19 @@
+{
+  "name": "remotebase_hackathon",
+  "version": "1.0.0",
+  "description": "This respository is dedicated to attempting the Remotebase Hackathon Challenge and all the relevant files of the app will be posted here.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZainAmjad68/remotebase_hackathon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZainAmjad68/remotebase_hackathon/issues"
+  },
+  "homepage": "https://github.com/ZainAmjad68/remotebase_hackathon#readme"
+}
